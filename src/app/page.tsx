@@ -8,7 +8,7 @@ export default function Home() {
       {/* Header */}
       <header className="bg-white border-b border-neutral-200 py-6 px-10 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <div className="p-2 bg-orange-500 rounded-lg text-white">
+          <div className="p-2 bg-black-500 rounded-lg text-white">
             <ChefHat size={24} />
           </div>
           <span className="font-bold text-xl tracking-tight text-neutral-900">DevBaker</span>
@@ -16,7 +16,7 @@ export default function Home() {
       </header>
 
       {/* Gallery */}
-      <div className="max-w-7xl mx-auto px-6 py-16">
+      <div className="max-w-7xl mx-auto px-9 py-16">
         <div className="mb-12 text-center">
           <h1 className="text-4xl md:text-5xl font-serif text-neutral-900 mb-4">
             The Collection
