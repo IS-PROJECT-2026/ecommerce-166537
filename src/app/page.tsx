@@ -13,9 +13,6 @@ export default function Home() {
           </div>
           <span className="font-bold text-xl tracking-tight text-neutral-900">DevBaker</span>
         </div>
-        <nav className="text-sm font-medium text-neutral-500">
-          Portfolio v2.4
-        </nav>
       </header>
 
       {/* Gallery */}
