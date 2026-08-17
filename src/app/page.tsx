@@ -8,7 +8,7 @@ export default function Home() {
       {/* Header */}
       <header className="bg-white border-b border-neutral-200 py-6 px-10 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <div className="p-2 bg-red-500 rounded-lg text-white">
+          <div className="p-2 bg-black-500 rounded-lg text-white">
             <ChefHat size={24} />
           </div>
           <span className="font-bold text-xl tracking-tight text-neutral-900">DevBaker</span>
